@@ -1,0 +1,1 @@
+/Users/abdurrahmanjun/Documents/ANDROID-STUDIO/AEJ/myflix/buildSrc/build/classes/kotlin/main/AndroidProjectConfig.class:/Users/abdurrahmanjun/Documents/ANDROID-STUDIO/AEJ/myflix/buildSrc/build/classes/kotlin/main/Libraries$Versions.class:/Users/abdurrahmanjun/Documents/ANDROID-STUDIO/AEJ/myflix/buildSrc/build/classes/kotlin/main/Libraries.class
