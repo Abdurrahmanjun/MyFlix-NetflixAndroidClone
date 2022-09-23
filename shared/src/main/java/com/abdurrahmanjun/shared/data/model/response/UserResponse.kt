@@ -7,7 +7,6 @@ import com.google.gson.annotations.SerializedName
  * https://github.com/Abdurrahmanjun
  * Indonesia, ID.
  */
-
 data class UserResponse(
     @SerializedName("birthdate")
     val birthdate: String?,
