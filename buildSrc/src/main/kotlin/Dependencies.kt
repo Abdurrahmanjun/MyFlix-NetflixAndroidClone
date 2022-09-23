@@ -10,7 +10,7 @@ object AndroidProjectConfig {
     const val targetSdk = 32
     const val versionCode = 1
     const val versionName = "1.0"
-    const val applicationId = "com.catnip.myflix"
+    const val applicationId = "com.abdurrahmanjun.myflix"
 }
 
 object Libraries {
@@ -34,6 +34,7 @@ object Libraries {
         const val androidxActivityKtx = "1.5.0"
         const val coil = "2.1.0"
         const val exoplayer = "2.18.1"
+        const val swipeRefreshLayout = "1.1.0"
     }
 
     const val androidxCoreKtx = "androidx.core:core-ktx:${Versions.coreKtx}"
@@ -63,5 +64,5 @@ object Libraries {
         "androidx.datastore:datastore-preferences:${Versions.jetpackDatastore}"
     const val coil = "io.coil-kt:coil:${Versions.coil}"
     const val exoplayer = "com.google.android.exoplayer:exoplayer:${Versions.exoplayer}"
-
+    const val swipeRefreshLayout = "androidx.swiperefreshlayout:swiperefreshlayout:${Versions.swipeRefreshLayout}"
 }

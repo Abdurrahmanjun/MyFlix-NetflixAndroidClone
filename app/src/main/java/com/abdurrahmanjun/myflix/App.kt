@@ -1,6 +1,7 @@
 package com.abdurrahmanjun.myflix
 
 import android.app.Application
+import com.abdurrahmanjun.home.di.HomeModules
 import com.abdurrahmanjun.login.di.LoginModules
 import com.abdurrahmanjun.myflix.di.AppModules
 import com.abdurrahmanjun.register.di.RegisterModules
