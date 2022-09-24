@@ -69,7 +69,6 @@ class HomeFeedsFragment : BaseFragment<FragmentHomeFeedsBinding, HomeViewModel>(
         }
     }
 
-
     override fun initView() {
         setupRecyclerView()
         initData()
